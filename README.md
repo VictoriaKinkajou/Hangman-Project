@@ -3,7 +3,7 @@ Hangman is a classic game in which a player thinks of a word and the other playe
 
 This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
 
-### Milestone_2
+### Milestone_1
 
 The code in this milestone:
 - defines the list of possible words for the game 
@@ -13,5 +13,5 @@ The code in this milestone:
 
 Uses Python3, importing random for word selection.
 
-### Milestone_3
+### Milestone_2
 To be completed soon...
