@@ -5,7 +5,7 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 
 ### Milestone_2
 
-I have written code that:
+The code in this milestone:
 - defines the list of possible words for the game 
 - randomly selects a word from the list
 - prompts the user to enter a letter 
