@@ -18,6 +18,11 @@ The code in this milestone:
 Uses Python3, importing random for word selection.
 
 ### Milestone_2
+
 In this milestone, I have defined the functions ask_for_input and check_guess.
 ask_for_input asks the user to guess a letter and checks that the input is valid.
 check_guess converts the input to lowercase, then checks to see if the letter is in the secret word.
+
+### Milestone_3
+
+I have added code to print underscores representing the unguessed characters of the mystery word. These are replaced with correctly guessed letters. If the player guesses a letter that is not in the mystery word, the player loses one life.
